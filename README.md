@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Had difficulty learning how to save information via Defaults so the app would remember the user's input if reset
+Had difficulty learning how to save information via Defaults so the app would remember the user's input if reset.
 
 ## License
 
